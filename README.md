@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="/assets/wave.gif" width="30px">, I'm Mohamed Hassan</h1>
+<h1 align="center">Hi <img src="/assets/wave.gif" width="30">, I'm Mohamed Hassan</h1>
 <h3 align="center">A passionate frontend developer from Egypt</h3>
 
 <p align="center">
